@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/favorit"
+        android:icon="@mipmap/fav_off"
+        android:orderInCategory="1"
+        android:title="Set as Favorit"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/share"
+        android:icon="@mipmap/ic_share"
+        android:orderInCategory="2"
+        android:title="Share Movie"
+        app:showAsAction="ifRoom" />
+
+</menu>

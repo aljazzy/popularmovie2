@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+    <TextView
+        android:id="@+id/detail_overview_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/detail_overview_title"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/detail_overview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/detail_overview_default"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/detail_rating_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/detail_rating_title"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/detail_rating"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/detail_rating_default"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/detail_release_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/detail_release_title"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/detail_release"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/detail_release_default"
+        android:textSize="14sp" />
+
+</LinearLayout>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Popular Movie 2</string>
+    <string name="error_text">Check Network Connection</string>
+    <string name="adapter_thumbnail">Adapter Thumbnail</string>
+    <string name="detail_title">Detail Title</string>
+    <string name="detail_poster_description">Description</string>
+    <string name="detail_overview_title">Overview</string>
+    <string name="detail_overview_default">Detail Overview</string>
+    <string name="detail_rating_title">Rating :</string>
+    <string name="detail_rating_default">Rating</string>
+    <string name="detail_release_title">Release Date :</string>
+    <string name="detail_release_default">15 Agustus 2017</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Most Popular</string>
+    <string name="favorit">Favorite</string>
+    <string name="adapter_youtube_trailer">Youtube Trailer</string>
+    <string name="log_error_data">errorResultData</string>
+    <string name="video_play_error">Cannot Play Video</string>
+    <string name="youtube_video">YouTube</string>
+    <string name="review">Review</string>
+    <string name="trailer">Trailer</string>
+</resources>
